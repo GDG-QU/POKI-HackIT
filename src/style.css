@@ -151,3 +151,7 @@ body:before{content:'';position:fixed;z-index:30;top:0;left:0;width:var(--scroll
 .partners .sponsor-art-slot>small{font-size:12px;text-align:center;color:#313c2d;line-height:1.25;max-width:95%}
 @media(max-width:700px){.partners .sponsor-art-slot img{max-height:82px}.partners .sponsor-art-slot>small{font-size:10px}}
 
+
+.partners .logo-slot .coming-soon{font:500 16px var(--display);letter-spacing:0;text-transform:none;color:#313c2d;text-align:center}
+@media(max-width:700px){.partners .logo-slot .coming-soon{font-size:14px}}
+
